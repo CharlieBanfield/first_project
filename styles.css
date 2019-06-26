@@ -23,7 +23,6 @@ li.done {
 }
 .bannertext {
     height: 40pt;
-    text-emphasis: bold;
     display: flex;
     justify-content: center;
     align-items: center;
